@@ -1,5 +1,5 @@
 
-nombre = "Francisco jose"
+nombre = "Francisco"
 Apellido = "Manrique Rivas"
 
 saludo = f"El nombre es: {nombre} y su apellido es : {Apellido}"
